@@ -1,0 +1,14 @@
+C:\Users\lalaig\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.csproj.AssemblyReference.cache
+C:\Users\lalaig\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalaig\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.AssemblyInfoInputs.cache
+C:\Users\lalaig\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.AssemblyInfo.cs
+C:\Users\lalaig\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\lalaig\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.exe
+C:\Users\lalaig\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.deps.json
+C:\Users\lalaig\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.runtimeconfig.json
+C:\Users\lalaig\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.runtimeconfig.dev.json
+C:\Users\lalaig\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.dll
+C:\Users\lalaig\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.pdb
+C:\Users\lalaig\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.dll
+C:\Users\lalaig\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.pdb
+C:\Users\lalaig\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.genruntimeconfig.cache
